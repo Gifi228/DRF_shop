@@ -1,0 +1,10 @@
+Django
+django-ckeditor-5
+django-filter
+django-jazzmin
+django-mptt
+djangorestframework
+drf-yasg
+python-dotenv
+Pillow
+psycopg2-binary
